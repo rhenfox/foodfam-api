@@ -5,9 +5,9 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to c
 Click nbfs://nbhost/SystemFileSystem/Templates/Other/html.html to edit this template
 -->
 <html xmlns="http://www.thymeleaf.org">
-    <head th:replace="/common/head::head" />
+    <head th:replace="common/head::head" />
     <body>
-        <div th:replace="/common/nav-bar::nav-bar"></div>
+        <div th:replace="common/header-nav::nav-bar"></div>
         <div class="container card mt-5">
             <table class="table table-sm container">
                 <thead>
@@ -44,6 +44,6 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/html.html to edit this temp
 
 
 
-        <div th:replace="/common/footer::footer"></div>
+<!--        <div th:replace="/common/footer::footer"></div>-->
     </body>
 </html>
