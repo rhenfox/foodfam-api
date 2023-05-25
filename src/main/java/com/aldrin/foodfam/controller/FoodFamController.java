@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
- *
  * @author ALDRIN
  */
 @Controller
@@ -19,5 +18,15 @@ public class FoodFamController {
     @GetMapping("/")
     public String index(){
         return "index";
+    }
+    
+    @GetMapping("/login")
+    public String login(){
+        return "login";
+    }
+    
+    @GetMapping("/signup")
+    public String signUp(){
+        return "signup";
     }
 }

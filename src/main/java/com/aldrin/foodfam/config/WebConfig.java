@@ -13,14 +13,18 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
  *
  * @author Java Programming with Aldrin
  */
-@Configuration
-@EnableWebMvc
+//@Configuration
+//@EnableWebMvc
 public class WebConfig implements WebMvcConfigurer {
 
     @Override
     public void addResourceHandlers(ResourceHandlerRegistry registry) {
         registry
+//          .addResourceHandler("/webjars/**","/static/js/**")
+//          .addResourceLocations("/webjars/","/static/js/");
           .addResourceHandler("/webjars/**")
           .addResourceLocations("/webjars/");
     }
+    
+
 }
