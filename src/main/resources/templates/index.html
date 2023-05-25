@@ -8,37 +8,67 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/html.html to edit this temp
     <head th:replace="common/head::head" />
     <body>
         <div th:replace="common/header-nav::nav-bar"></div>
-        <div class="container card mt-5">
-            <table class="table table-sm container">
-                <thead>
-                    <tr>
-                        <th scope="col-3">Description</th>
-                        <th scope="col-2">Method</th>
-                        <th scope="col-8">Mapping</th>
-                    </tr>
-                </thead>
-                <tbody>
+        <div class="container">
+            <div class="card my-2">
+                <p class="my-2 mx-2">
+                    
+                </p>
+                <div class="card mx-2 my-2">
+                    <table class="table table-hover">
+                        <thead class="table table-primary">
+                            <tr>
+                                <th>DESCRIPTION</th>
+                                <th>METHOD</th>
+                                <th>MAPPING</th>
+                            </tr>
+                        </thead>
+                        <tbody>
 
-                    <tr>
-                        <th scope="row">View user info by ID</th>
-                        <td>GET</td>
-                        <td>https://foodfam-api-production-ef4f.up.railway.app/user/list</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Search City by Country</th>
-                        <td>GET</td>
-                        <td>https://foodfam-api-production-ef4f.up.railway.app/city/list/Philippines</td>
-                    </tr>
+                            <tr>
+                                <th scope="row">USER VIEW info by ID</th>
+                                <td class="text-bg-success">GET</td>
+                                <td>https://foodfam-api-production-ef4f.up.railway.app/user/list</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">USER ADD by attribute(name,email,password)</th>
+                                <td class="text-bg-warning">POST</td>
+                                <td>https://foodfam-api-production-ef4f.up.railway.app/user/add</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">USER UPDATE  by attribute(name,email,password)</th>
+                                <td class="text-bg-primary">PUT</td>
+                                <td>https://foodfam-api-production-ef4f.up.railway.app/user/update/100</td>
+                            </tr>
 
-                </tbody>
-            </table>
 
+                            <tr>
+                                <th scope="row">COUNTRY LIST(Object)</th>
+                                <td class="text-bg-success">GET</td>
+                                <td>https://foodfam-api-production-ef4f.up.railway.app/country/listObject</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">COUNTRY LIST(Json)</th>
+                                <td class="text-bg-success">GET</td>
+                                <td>https://foodfam-api-production-ef4f.up.railway.app/country/list</td>
+                            </tr>         
+                            <tr>
+                                <th scope="row">SEARCH City by Country</th>
+                                <td class="text-bg-success">GET</td>
+                                <td>https://foodfam-api-production-ef4f.up.railway.app/city/list/Philippines</td>
+                            </tr>
+
+
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
         </div>
         <br><!-- comment -->
         <br>
 
 
 
-<!--        <div th:replace="/common/footer::footer"></div>-->
+        <!--        <div th:replace="/common/footer::footer"></div>-->
     </body>
 </html>

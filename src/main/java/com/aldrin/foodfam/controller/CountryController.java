@@ -40,12 +40,12 @@ public class CountryController {
 //        return new ResponseEntity<List<Country>>(countryService.getCountrySortByKeyword(name), HttpStatus.OK);
 //    }
 //    //READ user list
-//    @GetMapping("/list")
-//    public ResponseEntity<List<Country>> getCountryList() {
-//        return new ResponseEntity<List<Country>>(countryService.getCountry(), HttpStatus.OK);
-//    }
-
     @GetMapping("/list")
+    public ResponseEntity<List<Country>> getCountryList() {
+        return new ResponseEntity<List<Country>>(countryService.getCountry(), HttpStatus.OK);
+    }
+
+    @GetMapping("/listObject")
     public List<Object> getCountry() {
         List<Object> country = countryRepository.getCodeAndCountry();
         return country;
