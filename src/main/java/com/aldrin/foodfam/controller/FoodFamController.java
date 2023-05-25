@@ -18,8 +18,6 @@ public class FoodFamController {
     
     @GetMapping("/")
     public String index(){
-        return "/index";
+        return "index";
     }
-    
-    
 }
