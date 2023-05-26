@@ -1,7 +1,8 @@
 package com.aldrin.foodfam.dto;
 
 
-import com.aldrin.foodfam.model.recipe.Recipe;
+
+import com.aldrin.foodfam.model.recipe.UsedIngredient;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -11,7 +12,6 @@ import lombok.ToString;
 @AllArgsConstructor
 @NoArgsConstructor
 @ToString
-public class RecipeRequest {
-
-    private Recipe recipe;
+public class UsedIngredientRequest {
+    private UsedIngredient usedIngredient;
 }
