@@ -37,7 +37,7 @@ public class RecipeController {
 
 // http://localhost:8080/recipe/findByIngredients?ingredients=Tomato,+Potato,+Eggplant,+Beef
     @GetMapping("/recipe/findByIngredients")
-    public List<Recipe> findRecipeByKeyword(@RequestParam List<String> ingredients) {
+    public List<Recipe> findByTitleContaining(@RequestParam List<String> ingredients) {
         List<Recipe> result = new ArrayList<>();
         for (String keyword : ingredients) {
             for (Recipe recipe : recipeRepository.findByTitleContaining(keyword)) {
