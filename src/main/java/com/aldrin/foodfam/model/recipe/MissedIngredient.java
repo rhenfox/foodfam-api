@@ -24,7 +24,7 @@ import lombok.ToString;
 @NoArgsConstructor
 @ToString
 @Entity
-public class MissedIngredient extends Base{
+public class MissedIngredient {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     public int missedIngredientId;

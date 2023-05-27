@@ -19,7 +19,7 @@ import java.util.List;
 @NoArgsConstructor
 @ToString
 @Entity
-public class Recipe extends Base {
+public class Recipe  {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     public int recipe_id;

@@ -17,7 +17,7 @@ import lombok.ToString;
 @NoArgsConstructor
 @ToString
 @Entity
-public class UsedIngredient extends Base {
+public class UsedIngredient  {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int usedIngredientId;
