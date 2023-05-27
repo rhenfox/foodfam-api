@@ -1,7 +1,6 @@
 package com.aldrin.foodfam.controller;
 
 import com.aldrin.foodfam.dto.RecipeRequest;
-import com.aldrin.foodfam.exception.ResourceNotFoundException;
 import com.aldrin.foodfam.model.recipe.Recipe;
 import com.aldrin.foodfam.repository.RecipeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -13,12 +12,14 @@ import java.util.List;
 import org.springframework.data.domain.Sort;
 
 @RestController
+@RequestMapping("/recipe/")
 public class RecipeController {
 
     @Autowired
     private RecipeRepository recipeRepository;
 
-    @PostMapping("/recipe/addRecipe")
+//    @PostMapping("/recipe/addRecipe")
+    @PostMapping("/addRecipe")
     public Recipe addAuthor(@RequestBody RecipeRequest request) {
         return recipeRepository.save(request.getRecipe());
     }
@@ -36,8 +37,8 @@ public class RecipeController {
 //    }
 
 // http://localhost:8080/recipe/findByIngredients?ingredients=Tomato,+Potato,+Eggplant,+Beef
-    @GetMapping("/recipe/findByIngredients")
-    public List<Recipe> findByTitleContaining(@RequestParam List<String> ingredients) {
+    @GetMapping("/findByIngredients")
+    public List<Recipe> findByIngredients(@RequestParam List<String> ingredients) {
         List<Recipe> result = new ArrayList<>();
         for (String keyword : ingredients) {
             for (Recipe recipe : recipeRepository.findByTitleContaining(keyword)) {
