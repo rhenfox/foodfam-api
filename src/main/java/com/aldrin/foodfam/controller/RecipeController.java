@@ -1,65 +1,50 @@
 package com.aldrin.foodfam.controller;
 
-
-
 import com.aldrin.foodfam.dto.RecipeRequest;
 import com.aldrin.foodfam.exception.ResourceNotFoundException;
 import com.aldrin.foodfam.model.recipe.Recipe;
+import com.aldrin.foodfam.repository.RecipeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
 import java.util.List;
-import com.aldrin.foodfam.repository.RecipeRepository;
+import org.springframework.data.domain.Sort;
 
 @RestController
 public class RecipeController {
+
     @Autowired
-    private RecipeRepository authorRepository;
+    private RecipeRepository recipeRepository;
 
     @PostMapping("/recipe/addRecipe")
     public Recipe addAuthor(@RequestBody RecipeRequest request) {
-        return authorRepository.save(request.getRecipe());
-    }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    @PutMapping("/author/{id}")
-    public Recipe updateAuthor(@PathVariable(value = "id") Integer id, @RequestBody RecipeRequest request) {
-        return authorRepository.findById(id).map(author -> {
-            author.setTitle(request.getRecipe().getTitle());
-            author.setUsedIngredients(request.getRecipe().getUsedIngredients());
-            return authorRepository.save(author);
-        }).orElseThrow(() -> new ResourceNotFoundException("Author with id : " + id + " not found"));
+        return recipeRepository.save(request.getRecipe());
     }
 
-    @GetMapping("/author")
-    public List<Recipe> findAllAuthors() {
-        return authorRepository.findAll();
+//// http://localhost:8080/recipe/findByIngredients?ingredients=Cranberry Apple Crisp
+//    @GetMapping("/recipe/findByIngredients")
+//    public List<Recipe> findRecipeByName(@RequestParam List<Recipe> ingredients) {
+//        List<Recipe> result = new ArrayList<>();
+//        for (Recipe recipe : recipeRepository.findAll()) {
+//            if (ingredients.contains(recipe.getTitle())) {
+//                result.add(recipe);
+//            }
+//        }
+//        return result;
+//    }
+
+// http://localhost:8080/recipe/findByIngredients?ingredients=Tomato,+Potato,+Eggplant,+Beef
+    @GetMapping("/recipe/findByIngredients")
+    public List<Recipe> findRecipeByKeyword(@RequestParam List<String> ingredients) {
+        List<Recipe> result = new ArrayList<>();
+        for (String keyword : ingredients) {
+            for (Recipe recipe : recipeRepository.findByTitleContaining(keyword)) {
+                result.add(recipe);
+            }
+        }
+        return result;
     }
 
-    @GetMapping("/author/{id}")
-    public ResponseEntity getAuthorById(@PathVariable(value = "id") Integer id) {
-        return authorRepository.findById(id).map(author ->
-                ResponseEntity.ok(author)).orElseThrow(() ->
-                new ResourceNotFoundException("Author with id : " + id + " not found")
-        );
-    }
-
-    @DeleteMapping("/author/{id}")
-    public ResponseEntity<?> deleteAuthor(@PathVariable(value = "id") Integer id) {
-        return authorRepository.findById(id).map(author -> {
-            authorRepository.delete(author);
-            return ResponseEntity.ok().build();
-        }).orElseThrow(() -> new ResourceNotFoundException("Author with id : " + id + " not found"));
-    }
 }

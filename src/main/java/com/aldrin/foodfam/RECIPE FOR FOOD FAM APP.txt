@@ -1,0 +1,3327 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+https://api.spoonacular.com/recipes/findByIngredients?ingredients=apples,+flour,+sugar&number=2
+[
+    {
+        "id": 640352,
+        "title": "Cranberry Apple Crisp",
+        "image": "https://spoonacular.com/recipeImages/640352-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 1,
+        "missedIngredientCount": 3,
+        "missedIngredients": [
+            {
+                "id": 9078,
+                "amount": 2.0,
+                "unit": "cups",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "cranberries",
+                "original": "2 cups fresh cranberries",
+                "originalName": "fresh cranberries",
+                "meta": [
+                    "fresh"
+                ],
+                "extendedName": "fresh cranberries",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/cranberries.jpg"
+            },
+            {
+                "id": 1145,
+                "amount": 4.0,
+                "unit": "Tbs",
+                "unitLong": "Tbs",
+                "unitShort": "Tbs",
+                "aisle": "Milk, Eggs, Other Dairy",
+                "name": "butter",
+                "original": "1/2 stick (4 Tbs) unsalted butter, cut into cubes",
+                "originalName": "1/2 stick unsalted butter, cut into cubes",
+                "meta": [
+                    "unsalted",
+                    "cut into cubes"
+                ],
+                "extendedName": "unsalted butter",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/butter-sliced.jpg"
+            },
+            {
+                "id": 8120,
+                "amount": 1.5,
+                "unit": "cups",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Cereal",
+                "name": "regular oats",
+                "original": "1 1/2 cups regular oats (not quick-cooking)",
+                "originalName": "regular oats (not quick-cooking)",
+                "meta": [
+                    "(not quick-cooking)"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/rolled-oats.jpg"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 1089003,
+                "amount": 4.0,
+                "unit": "cups",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "granny smith apples",
+                "original": "4 cups Granny Smith apples, chopped into ½ inch chunks",
+                "originalName": "Granny Smith apples, chopped into ½ inch chunks",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/grannysmith-apple.png"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 11
+    },
+    {
+        "id": 641803,
+        "title": "Easy & Delish! ~ Apple Crumble",
+        "image": "https://spoonacular.com/recipeImages/641803-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 1,
+        "missedIngredientCount": 3,
+        "missedIngredients": [
+            {
+                "id": 1001,
+                "amount": 0.75,
+                "unit": "stick",
+                "unitLong": "sticks",
+                "unitShort": "stick",
+                "aisle": "Milk, Eggs, Other Dairy",
+                "name": "butter",
+                "original": "3/4 stick of butter",
+                "originalName": "butter",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/butter-sliced.jpg"
+            },
+            {
+                "id": 2011,
+                "amount": 1.0,
+                "unit": "Dash",
+                "unitLong": "Dash",
+                "unitShort": "Dash",
+                "aisle": "Spices and Seasonings",
+                "name": "ground cloves",
+                "original": "Dash of ground cloves",
+                "originalName": "ground cloves",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/cloves.jpg"
+            },
+            {
+                "id": 9156,
+                "amount": 1.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "lemon zest",
+                "original": "1 Zest of lemon",
+                "originalName": "Zest of lemon",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/zest-lemon.jpg"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 9003,
+                "amount": 3.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "apples",
+                "original": "3 apples – sliced",
+                "originalName": "apples – sliced",
+                "meta": [
+                    "sliced"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/apple.jpg"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 1
+    }
+]
+
+tapos na!!!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+https://api.spoonacular.com/recipes/findByIngredients?ingredients=cabbage,+potato&number=5&apiKey=3d3a1f0106f643f68d28e2ac3c15f15c
+
+[
+    {
+        "id": 645422,
+        "title": "Sausages with Green Cabbage Mash",
+        "image": "https://spoonacular.com/recipeImages/645422-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 2,
+        "missedIngredientCount": 3,
+        "missedIngredients": [
+            {
+                "id": 1002025,
+                "amount": 2.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Spices and Seasonings",
+                "name": "nutmeg",
+                "original": "Fresh nutmeg",
+                "originalName": "Fresh nutmeg",
+                "meta": [
+                    "fresh"
+                ],
+                "extendedName": "fresh nutmeg",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/ground-nutmeg.jpg"
+            },
+            {
+                "id": 1017063,
+                "amount": 2.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Meat",
+                "name": "sausages",
+                "original": "2 sausages",
+                "originalName": "sausages",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/raw-pork-sausage.png"
+            },
+            {
+                "id": 10611282,
+                "amount": 1.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "onion",
+                "original": "1 white onion, peeled & finely diced",
+                "originalName": "white onion, peeled & finely diced",
+                "meta": [
+                    "diced",
+                    "white",
+                    "peeled",
+                    "finely"
+                ],
+                "extendedName": "white diced onion",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/white-onion.png"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 11109,
+                "amount": 500.0,
+                "unit": "gr",
+                "unitLong": "grs",
+                "unitShort": "gr",
+                "aisle": "Produce",
+                "name": "cabbage",
+                "original": "500 gr. green cabbage",
+                "originalName": "green cabbage",
+                "meta": [
+                    "green"
+                ],
+                "extendedName": "green cabbage",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/cabbage.jpg"
+            },
+            {
+                "id": 11352,
+                "amount": 800.0,
+                "unit": "grams",
+                "unitLong": "grams",
+                "unitShort": "g",
+                "aisle": "Produce",
+                "name": "potatoes",
+                "original": "800 grams potatoes",
+                "originalName": "potatoes",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/potatoes-yukon-gold.png"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 1
+    },
+---------------------------------------------------------------------------------------------------------------------------------
+    {
+        "id": 645572,
+        "title": "Griet's vegetable soup",
+        "image": "https://spoonacular.com/recipeImages/645572-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 2,
+        "missedIngredientCount": 4,
+        "missedIngredients": [
+            {
+                "id": 11282,
+                "amount": 1.0,
+                "unit": "small",
+                "unitLong": "small",
+                "unitShort": "small",
+                "aisle": "Produce",
+                "name": "onion",
+                "original": "1 small onion",
+                "originalName": "onion",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/brown-onion.png"
+            },
+            {
+                "id": 11246,
+                "amount": 1.0,
+                "unit": "stick",
+                "unitLong": "stick",
+                "unitShort": "stick",
+                "aisle": "Produce",
+                "name": "leeks",
+                "original": "1 stick leeks",
+                "originalName": "leeks",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/leeks.jpg"
+            },
+            {
+                "id": 11124,
+                "amount": 1.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "carrot",
+                "original": "1 carrot",
+                "originalName": "carrot",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/sliced-carrot.png"
+            },
+            {
+                "id": 11564,
+                "amount": 1.0,
+                "unit": "small",
+                "unitLong": "small",
+                "unitShort": "small",
+                "aisle": "Produce",
+                "name": "turnip root",
+                "original": "1 small turnip root",
+                "originalName": "turnip root",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/turnips.png"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 11112,
+                "amount": 1.0,
+                "unit": "small sized head",
+                "unitLong": "small sized head",
+                "unitShort": "small sized head",
+                "aisle": "Produce",
+                "name": "cabbage",
+                "original": "1 small sized head red cabbage",
+                "originalName": "red cabbage",
+                "meta": [
+                    "red"
+                ],
+                "extendedName": "red cabbage",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/red-cabbage.png"
+            },
+            {
+                "id": 11352,
+                "amount": 3.0,
+                "unit": "small",
+                "unitLong": "smalls",
+                "unitShort": "small",
+                "aisle": "Produce",
+                "name": "potatoes",
+                "original": "3 small potatoes",
+                "originalName": "potatoes",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/potatoes-yukon-gold.png"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 1
+    },
+----------------------------------------------------------------------------------------------------------------------------------------------
+    {
+        "id": 636641,
+        "title": "Cabbage and sausages in beer",
+        "image": "https://spoonacular.com/recipeImages/636641-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 2,
+        "missedIngredientCount": 5,
+        "missedIngredients": [
+            {
+                "id": 14003,
+                "amount": 200.0,
+                "unit": "ml",
+                "unitLong": "milliliters",
+                "unitShort": "ml",
+                "aisle": "Alcoholic Beverages",
+                "name": "beer",
+                "original": "200ml beer",
+                "originalName": "beer",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/beer.jpg"
+            },
+            {
+                "id": 4073,
+                "amount": 6.0,
+                "unit": "tablespoons",
+                "unitLong": "tablespoons",
+                "unitShort": "Tbsp",
+                "aisle": "Milk, Eggs, Other Dairy",
+                "name": "butter",
+                "original": "6 tablespoons Butter or margarine, divided",
+                "originalName": "Butter or margarine, divided",
+                "meta": [
+                    "divided"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/butter-sliced.jpg"
+            },
+            {
+                "id": 11282,
+                "amount": 1.0,
+                "unit": "small",
+                "unitLong": "small",
+                "unitShort": "small",
+                "aisle": "Produce",
+                "name": "onion",
+                "original": "1 small Onion, (diced)",
+                "originalName": "Onion, (diced)",
+                "meta": [
+                    "diced",
+                    "()"
+                ],
+                "extendedName": "diced onion",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/brown-onion.png"
+            },
+            {
+                "id": 10211821,
+                "amount": 3.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Produce",
+                "name": "bell pepper",
+                "original": "Pepper to taste",
+                "originalName": "Pepper to taste",
+                "meta": [
+                    "to taste"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/bell-pepper-orange.png"
+            },
+            {
+                "id": 7916,
+                "amount": 200.0,
+                "unit": "g",
+                "unitLong": "grams",
+                "unitShort": "g",
+                "aisle": "Meat",
+                "name": "sausages",
+                "original": "200g smoked sausages, cut into thumb-length pieces",
+                "originalName": "smoked sausages, cut into thumb-length pieces",
+                "meta": [
+                    "smoked",
+                    "cut into thumb-length pieces"
+                ],
+                "extendedName": "smoked sausages",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/smoked-sausage.jpg"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 11109,
+                "amount": 400.0,
+                "unit": "g",
+                "unitLong": "grams",
+                "unitShort": "g",
+                "aisle": "Produce",
+                "name": "cabbage",
+                "original": "400g green cabbage, halved lengthwise, cut into two-finger-width wedges",
+                "originalName": "green cabbage, halved lengthwise, cut into two-finger-width wedges",
+                "meta": [
+                    "green",
+                    "halved lengthwise",
+                    "cut into two-finger-width wedges"
+                ],
+                "extendedName": "green cabbage",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/cabbage.jpg"
+            },
+            {
+                "id": 11352,
+                "amount": 150.0,
+                "unit": "g",
+                "unitLong": "grams",
+                "unitShort": "g",
+                "aisle": "Produce",
+                "name": "potatoes",
+                "original": "150g potatoes, cut into chunks",
+                "originalName": "potatoes, cut into chunks",
+                "meta": [
+                    "cut into chunks"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/potatoes-yukon-gold.png"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 15
+    },
+-------------------------------------------------------------------------------------------------------------------------------------------------
+    {
+        "id": 647974,
+        "title": "Irish Colcannon",
+        "image": "https://spoonacular.com/recipeImages/647974-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 2,
+        "missedIngredientCount": 5,
+        "missedIngredients": [
+            {
+                "id": 10123,
+                "amount": 2.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Meat",
+                "name": "rashers bacon",
+                "original": "2-3 rashers bacon (optional)",
+                "originalName": "rashers bacon (optional)",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/raw-bacon.png"
+            },
+            {
+                "id": 10211215,
+                "amount": 2.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "to 3 cloves garlic",
+                "original": "2 To 3 cloves garlic, minced",
+                "originalName": "To 3 cloves garlic, minced",
+                "meta": [
+                    "minced"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/garlic.jpg"
+            },
+            {
+                "id": 11246,
+                "amount": 2.0,
+                "unit": "medium",
+                "unitLong": "mediums",
+                "unitShort": "medium",
+                "aisle": "Produce",
+                "name": "leeks",
+                "original": "2 mediums leeks, split lengthwise and rinsed well",
+                "originalName": "s leeks, split lengthwise and rinsed well",
+                "meta": [
+                    "split",
+                    "rinsed",
+                    "well"
+                ],
+                "extendedName": "split leeks",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/leeks.jpg"
+            },
+            {
+                "id": 2022,
+                "amount": 0.25,
+                "unit": "teaspoon",
+                "unitLong": "teaspoons",
+                "unitShort": "tsp",
+                "aisle": "Spices and Seasonings",
+                "name": "mace",
+                "original": "1/4 teaspoon mace",
+                "originalName": "mace",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/ground-coriander.jpg"
+            },
+            {
+                "id": 1011077,
+                "amount": 1.0,
+                "unit": "cup",
+                "unitLong": "cup",
+                "unitShort": "cup",
+                "aisle": "Milk, Eggs, Other Dairy",
+                "name": "milk",
+                "original": "1 cup whole milk",
+                "originalName": "whole milk",
+                "meta": [
+                    "whole"
+                ],
+                "extendedName": "whole milk",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/milk.png"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 11109,
+                "amount": 1.0,
+                "unit": "pound",
+                "unitLong": "pound",
+                "unitShort": "lb",
+                "aisle": "Produce",
+                "name": "cabbage",
+                "original": "1 pound green cabbage (kale can also be used)",
+                "originalName": "green cabbage (kale can also be used)",
+                "meta": [
+                    "green",
+                    "canned",
+                    "(kale can also be used)"
+                ],
+                "extendedName": "canned green cabbage",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/cabbage.jpg"
+            },
+            {
+                "id": 10011355,
+                "amount": 2.0,
+                "unit": "pounds",
+                "unitLong": "pounds",
+                "unitShort": "lb",
+                "aisle": "Produce",
+                "name": "potatoes",
+                "original": "2 pounds yellow or red potatoes, scrubbed and cubed but not peeled",
+                "originalName": "yellow or red potatoes, scrubbed and cubed but not peeled",
+                "meta": [
+                    "red",
+                    "yellow",
+                    "cubed",
+                    "peeled",
+                    "scrubbed"
+                ],
+                "extendedName": "yellow red potatoes",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/red-potatoes.jpg"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 5
+    },
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+    {
+        "id": 646228,
+        "title": "Ham, Potato and Cabbage Soup",
+        "image": "https://spoonacular.com/recipeImages/646228-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 2,
+        "missedIngredientCount": 5,
+        "missedIngredients": [
+            {
+                "id": 6194,
+                "amount": 6.0,
+                "unit": "cups",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Canned and Jarred",
+                "name": "chicken broth",
+                "original": "6 cups Swanson® Chicken Broth (Regular, Natural Goodness® or Certified Organic)",
+                "originalName": "Swanson® Chicken Broth (Regular, Natural Goodness® or Certified Organic)",
+                "meta": [
+                    "organic",
+                    "swanson®",
+                    "natural goodness®",
+                    "(Regular, or Certified )"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/chicken-broth.png"
+            },
+            {
+                "id": 10511297,
+                "amount": 2.0,
+                "unit": "tablespoons",
+                "unitLong": "tablespoons",
+                "unitShort": "Tbsp",
+                "aisle": "Produce",
+                "name": "parsley",
+                "original": "2 tablespoons chopped fresh parsley",
+                "originalName": "chopped fresh parsley",
+                "meta": [
+                    "fresh",
+                    "chopped"
+                ],
+                "extendedName": "fresh parsley",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/parsley.jpg"
+            },
+            {
+                "id": 11215,
+                "amount": 1.0,
+                "unit": "clove",
+                "unitLong": "clove",
+                "unitShort": "clove",
+                "aisle": "Produce",
+                "name": "garlic",
+                "original": "1 clove garlic, minced",
+                "originalName": "garlic, minced",
+                "meta": [
+                    "minced"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/garlic.png"
+            },
+            {
+                "id": 10802,
+                "amount": 4.0,
+                "unit": "ounce",
+                "unitLong": "ounces",
+                "unitShort": "oz",
+                "aisle": "Meat",
+                "name": "ham steak",
+                "original": "4 ounce cooked ham steak, cut into 2-inch-long strips (about 1 cup)",
+                "originalName": "cooked ham steak, cut into 2-inch-long strips (about 1 cup)",
+                "meta": [
+                    "cooked",
+                    "cut into 2-inch-long strips ( 1 cup)"
+                ],
+                "extendedName": "cooked ham steak",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/ham-whole.jpg"
+            },
+            {
+                "id": 11282,
+                "amount": 2.0,
+                "unit": "cups",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "onions",
+                "original": "2 large onions, chopped (about 2 cups)",
+                "originalName": "large onions, chopped (about",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/brown-onion.png"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 11109,
+                "amount": 3.0,
+                "unit": "cups",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "cabbage",
+                "original": "3 cups shredded green cabbage",
+                "originalName": "shredded green cabbage",
+                "meta": [
+                    "shredded",
+                    "green"
+                ],
+                "extendedName": "green shredded cabbage",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/cabbage.jpg"
+            },
+            {
+                "id": 11352,
+                "amount": 2.0,
+                "unit": "cups",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "potato",
+                "original": "1 large potato, diced (about 2 cups)",
+                "originalName": "large potato, diced (about",
+                "meta": [
+                    "diced"
+                ],
+                "extendedName": "diced potato",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/potatoes-yukon-gold.png"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 1
+    }
+]
+
+tapos na
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+https://api.spoonacular.com/recipes/findByIngredients?ingredients=egg plant,+tomato&number=5&apiKey=3d3a1f0106f643f68d28e2ac3c15f15c
+
+[
+    {
+        "id": 645696,
+        "title": "Grilled Eggplant and Heirloom Tomato Stacks With Basil and Tomato Coulis",
+        "image": "https://spoonacular.com/recipeImages/645696-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 3,
+        "missedIngredientCount": 4,
+        "missedIngredients": [
+            {
+                "id": 2044,
+                "amount": 15.0,
+                "unit": "large",
+                "unitLong": "larges",
+                "unitShort": "large",
+                "aisle": "Produce",
+                "name": "basil leaves",
+                "original": "15 large basil leaves",
+                "originalName": "basil leaves",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/fresh-basil.jpg"
+            },
+            {
+                "id": 10211215,
+                "amount": 1.0,
+                "unit": "small",
+                "unitLong": "small",
+                "unitShort": "small",
+                "aisle": "Produce",
+                "name": "garlic clove",
+                "original": "1 small garlic clove, minced",
+                "originalName": "garlic clove, minced",
+                "meta": [
+                    "minced"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/garlic.jpg"
+            },
+            {
+                "id": 1159,
+                "amount": 1.0,
+                "unit": "cup",
+                "unitLong": "cup",
+                "unitShort": "cup",
+                "aisle": "Cheese",
+                "name": "mild goat cheese",
+                "original": "1 cup soft, mild goat cheese",
+                "originalName": "soft, mild goat cheese",
+                "meta": [
+                    "soft"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/goat-cheese.jpg"
+            },
+            {
+                "id": 1038,
+                "amount": 0.25,
+                "unit": "cup",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Cheese",
+                "name": "pecorino romano cheese",
+                "original": "1/4 cup finely grated Pecorino Romano cheese",
+                "originalName": "finely grated Pecorino Romano cheese",
+                "meta": [
+                    "finely grated"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/parmesan.jpg"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 11209,
+                "amount": 1.0,
+                "unit": "large",
+                "unitLong": "large",
+                "unitShort": "large",
+                "aisle": "Produce",
+                "name": "eggplant",
+                "original": "1 large, firm eggplant, sliced horizontally 1/2\" thick, 8-10 slices",
+                "originalName": "firm eggplant, sliced horizontally 1/2\" thick, 8-10 slices",
+                "meta": [
+                    "thick",
+                    "firm",
+                    "sliced"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/eggplant.png"
+            },
+            {
+                "id": 10411529,
+                "amount": 8.0,
+                "unit": "ounces",
+                "unitLong": "ounces",
+                "unitShort": "oz",
+                "aisle": "Produce",
+                "name": "plum tomatoes",
+                "original": "8 ounces plum tomatoes thinly sliced",
+                "originalName": "plum tomatoes thinly sliced",
+                "meta": [
+                    "thinly sliced"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/plum-tomatoes.png"
+            },
+            {
+                "id": 11529,
+                "amount": 0.75,
+                "unit": "cup",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "tomato coulis",
+                "original": "3/4 cup Tomato Coulis (recipe below)",
+                "originalName": "Tomato Coulis (recipe below)",
+                "meta": [
+                    "(recipe below)"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/tomato.png"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 8
+    },
+---------------------------------------------------------------------------------------------------------------------------------------------------
+    {
+        "id": 642303,
+        "title": "Eggplant pizzette",
+        "image": "https://spoonacular.com/recipeImages/642303-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 2,
+        "missedIngredientCount": 2,
+        "missedIngredients": [
+            {
+                "id": 1040,
+                "amount": 100.0,
+                "unit": "g",
+                "unitLong": "grams",
+                "unitShort": "g",
+                "aisle": "Cheese",
+                "name": "swiss cheese",
+                "original": "100g Swiss cheese, coarsely grated",
+                "originalName": "Swiss cheese, coarsely grated",
+                "meta": [
+                    "grated"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/Swiss-cheese.jpg"
+            },
+            {
+                "id": 2044,
+                "amount": 3.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Produce",
+                "name": "basil and oregano leaves",
+                "original": "Basil and oregano leaves, fresh or dried",
+                "originalName": "Basil and oregano leaves, fresh or dried",
+                "meta": [
+                    "fresh"
+                ],
+                "extendedName": "fresh basil and oregano leaves",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/fresh-basil.jpg"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 11209,
+                "amount": 1.0,
+                "unit": "large",
+                "unitLong": "large",
+                "unitShort": "large",
+                "aisle": "Produce",
+                "name": "round eggplant",
+                "original": "1 large round eggplant, washed, sliced into rounds",
+                "originalName": "round eggplant, washed, sliced into rounds",
+                "meta": [
+                    "washed",
+                    "sliced into rounds"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/eggplant.png"
+            },
+            {
+                "id": 11529,
+                "amount": 10.0,
+                "unit": "Tbs",
+                "unitLong": "Tbs",
+                "unitShort": "Tbs",
+                "aisle": "Produce",
+                "name": "tomatoes",
+                "original": "10 Tbs chopped tomatoes",
+                "originalName": "chopped tomatoes",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/tomato.png"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 5
+    },
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+    {
+        "id": 663323,
+        "title": "The Priest Fainted (Imam Bayildi)",
+        "image": "https://spoonacular.com/recipeImages/663323-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 2,
+        "missedIngredientCount": 3,
+        "missedIngredients": [
+            {
+                "id": 11215,
+                "amount": 3.0,
+                "unit": "cloves",
+                "unitLong": "cloves",
+                "unitShort": "cloves",
+                "aisle": "Produce",
+                "name": "garlic",
+                "original": "3-4 cloves garlic, chopped",
+                "originalName": "garlic, chopped",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/garlic.png"
+            },
+            {
+                "id": 11282,
+                "amount": 1.0,
+                "unit": "large",
+                "unitLong": "large",
+                "unitShort": "large",
+                "aisle": "Produce",
+                "name": "onion",
+                "original": "1 large onion, chopped",
+                "originalName": "onion, chopped",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/brown-onion.png"
+            },
+            {
+                "id": 11297,
+                "amount": 0.5,
+                "unit": "cup",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Produce;Spices and Seasonings",
+                "name": "parsley",
+                "original": "1/2 cup chopped parsley",
+                "originalName": "chopped parsley",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/parsley.jpg"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 11209,
+                "amount": 4.0,
+                "unit": "medium",
+                "unitLong": "mediums",
+                "unitShort": "medium",
+                "aisle": "Produce",
+                "name": "eggplants",
+                "original": "4 medium eggplants",
+                "originalName": "eggplants",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/eggplant.png"
+            },
+            {
+                "id": 11529,
+                "amount": 2.0,
+                "unit": "lbs",
+                "unitLong": "pounds",
+                "unitShort": "lb",
+                "aisle": "Produce",
+                "name": "tomatoes",
+                "original": "2 lbs tomatoes, blanched, peeled and coarsely chopped",
+                "originalName": "tomatoes, blanched, peeled and coarsely chopped",
+                "meta": [
+                    "peeled",
+                    "coarsely chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/tomato.png"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 1
+    },
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    {
+        "id": 657939,
+        "title": "Ratatouille With Brie",
+        "image": "https://spoonacular.com/recipeImages/657939-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 2,
+        "missedIngredientCount": 4,
+        "missedIngredients": [
+            {
+                "id": 1006,
+                "amount": 1.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Cheese",
+                "name": "brie log such as alouette",
+                "original": "1 Brie Log such as Alouette",
+                "originalName": "Brie Log such as Alouette",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/brie.jpg"
+            },
+            {
+                "id": 11477,
+                "amount": 1.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "zucchini",
+                "original": "1 zucchini",
+                "originalName": "zucchini",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/zucchini.jpg"
+            },
+            {
+                "id": 10211641,
+                "amount": 1.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "squash",
+                "original": "1 yellow squash",
+                "originalName": "yellow squash",
+                "meta": [
+                    "yellow"
+                ],
+                "extendedName": "yellow squash",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/yellow-squash.jpg"
+            },
+            {
+                "id": 2049,
+                "amount": 1.0,
+                "unit": "tsp",
+                "unitLong": "teaspoon",
+                "unitShort": "tsp",
+                "aisle": "Produce;Spices and Seasonings",
+                "name": "thyme",
+                "original": "1 tsp. thyme (chopped)",
+                "originalName": "thyme (chopped)",
+                "meta": [
+                    "chopped",
+                    "()"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/thyme.jpg"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 11209,
+                "amount": 1.0,
+                "unit": "small",
+                "unitLong": "small",
+                "unitShort": "small",
+                "aisle": "Produce",
+                "name": "eggplant",
+                "original": "1 small eggplant",
+                "originalName": "eggplant",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/eggplant.png"
+            },
+            {
+                "id": 10411529,
+                "amount": 2.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "plum tomatoes",
+                "original": "2 ripe plum tomatoes",
+                "originalName": "ripe plum tomatoes",
+                "meta": [
+                    "ripe"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/plum-tomatoes.png"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 63
+    },
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+    {
+        "id": 631824,
+        "title": "(Lighter) Classic Eggplant Parmigiana",
+        "image": "https://spoonacular.com/recipeImages/631824-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 2,
+        "missedIngredientCount": 4,
+        "missedIngredients": [
+            {
+                "id": 2044,
+                "amount": 4.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Produce",
+                "name": "basil leaves",
+                "original": "Fresh basil leaves",
+                "originalName": "Fresh basil leaves",
+                "meta": [
+                    "fresh"
+                ],
+                "extendedName": "fresh basil leaves",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/fresh-basil.jpg"
+            },
+            {
+                "id": 1021026,
+                "amount": 2.0,
+                "unit": "medium balls",
+                "unitLong": "medium balls",
+                "unitShort": "medium balls",
+                "aisle": "Cheese",
+                "name": "mozzarella",
+                "original": "1 large or 2 medium balls of fresh mozzarella (about 6-8 ounces total), torn into little shreds",
+                "originalName": "large or of fresh mozzarella (about 6-8 ounces total), torn into little shreds",
+                "meta": [
+                    "fresh",
+                    "( 6-8 ounces total)"
+                ],
+                "extendedName": "fresh mozzarella",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/mozzarella.png"
+            },
+            {
+                "id": 11215,
+                "amount": 2.0,
+                "unit": "cloves",
+                "unitLong": "cloves",
+                "unitShort": "cloves",
+                "aisle": "Produce",
+                "name": "garlic",
+                "original": "2 cloves garlic, minced",
+                "originalName": "garlic, minced",
+                "meta": [
+                    "minced"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/garlic.png"
+            },
+            {
+                "id": 1033,
+                "amount": 4.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Cheese",
+                "name": "parmigiano",
+                "original": "Freshly grated Parmigiano",
+                "originalName": "Freshly grated Parmigiano",
+                "meta": [
+                    "freshly grated"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/parmesan.jpg"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 10011693,
+                "amount": 28.0,
+                "unit": "ounce",
+                "unitLong": "ounces",
+                "unitShort": "oz",
+                "aisle": "Canned and Jarred",
+                "name": "canned tomatoes",
+                "original": "1 (28 ounce) can diced or whole tomatoes (preferably San Marzano)",
+                "originalName": "diced or whole tomatoes (preferably San Marzano)",
+                "meta": [
+                    "diced",
+                    "whole",
+                    "canned",
+                    "(preferably San Marzano)"
+                ],
+                "extendedName": "whole diced canned tomatoes",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/tomatoes-canned.png"
+            },
+            {
+                "id": 11209,
+                "amount": 2.0,
+                "unit": "medium",
+                "unitLong": "mediums",
+                "unitShort": "medium",
+                "aisle": "Produce",
+                "name": "eggplants",
+                "original": "2 medium-large eggplants",
+                "originalName": "large eggplants",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/eggplant.png"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 1
+    }
+]
+
+tapos na
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+https://api.spoonacular.com/recipes/findByIngredients?ingredients=squash,+string beans&number=5&apiKey=3d3a1f0106f643f68d28e2ac3c15f15c
+[
+    {
+        "id": 642610,
+        "title": "Farm Fresh Vegetable Stew",
+        "image": "https://spoonacular.com/recipeImages/642610-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 3,
+        "missedIngredientCount": 12,
+        "missedIngredients": [
+            {
+                "id": 11215,
+                "amount": 10.0,
+                "unit": "cloves",
+                "unitLong": "cloves",
+                "unitShort": "cloves",
+                "aisle": "Produce",
+                "name": "garlic",
+                "original": "10 cloves of garlic, chopped",
+                "originalName": "garlic, chopped",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/garlic.png"
+            },
+            {
+                "id": 11282,
+                "amount": 3.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "onions",
+                "original": "3 onions, diced",
+                "originalName": "onions, diced",
+                "meta": [
+                    "diced"
+                ],
+                "extendedName": "diced onions",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/brown-onion.png"
+            },
+            {
+                "id": 10111333,
+                "amount": 3.0,
+                "unit": "cups",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "peppers",
+                "original": "3 cups diced assorted peppers (sweet red Italian, green and red bell)",
+                "originalName": "diced assorted peppers (sweet red Italian, green and red bell)",
+                "meta": [
+                    "diced",
+                    "sweet",
+                    "green",
+                    "red",
+                    "italian",
+                    "assorted",
+                    "( , and bell)"
+                ],
+                "extendedName": "italian red green sweet diced peppers",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/green-pepper.jpg"
+            },
+            {
+                "id": 11124,
+                "amount": 1.5,
+                "unit": "cups",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "carrots",
+                "original": "1 1/2 cups diced carrots",
+                "originalName": "diced carrots",
+                "meta": [
+                    "diced"
+                ],
+                "extendedName": "diced carrots",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/sliced-carrot.png"
+            },
+            {
+                "id": 11143,
+                "amount": 0.5,
+                "unit": "cup",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "celery",
+                "original": "1/2 cup celery (4 stalks)",
+                "originalName": "celery (4 stalks)",
+                "meta": [
+                    "(4 stalks)"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/celery.jpg"
+            },
+            {
+                "id": 11209,
+                "amount": 2.0,
+                "unit": "cups",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "eggplant",
+                "original": "2 cups diced eggplant (salted)",
+                "originalName": "diced eggplant (salted)",
+                "meta": [
+                    "salted",
+                    "diced",
+                    "()"
+                ],
+                "extendedName": "diced salted eggplant",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/eggplant.png"
+            },
+            {
+                "id": 11529,
+                "amount": 4.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "tomatoes",
+                "original": "4 tomatoes, skins removed and diced",
+                "originalName": "tomatoes, skins removed and diced",
+                "meta": [
+                    "diced"
+                ],
+                "extendedName": "diced tomatoes",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/tomato.png"
+            },
+            {
+                "id": 1012049,
+                "amount": 1.0,
+                "unit": "teaspoon",
+                "unitLong": "teaspoon",
+                "unitShort": "tsp",
+                "aisle": "Produce",
+                "name": "thyme leaves",
+                "original": "1 teaspoon fresh thyme leaves",
+                "originalName": "fresh thyme leaves",
+                "meta": [
+                    "fresh"
+                ],
+                "extendedName": "fresh thyme leaves",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/thyme.jpg"
+            },
+            {
+                "id": 1002014,
+                "amount": 1.0,
+                "unit": "teaspoon",
+                "unitLong": "teaspoon",
+                "unitShort": "tsp",
+                "aisle": "Spices and Seasonings",
+                "name": "cumin",
+                "original": "1 teaspoon cumin",
+                "originalName": "cumin",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/ground-cumin.jpg"
+            },
+            {
+                "id": 2027,
+                "amount": 1.0,
+                "unit": "teaspoon",
+                "unitLong": "teaspoon",
+                "unitShort": "tsp",
+                "aisle": "Produce;Spices and Seasonings",
+                "name": "oregano",
+                "original": "1 teaspoon dried oregano",
+                "originalName": "dried oregano",
+                "meta": [
+                    "dried"
+                ],
+                "extendedName": "dried oregano",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/oregano.jpg"
+            },
+            {
+                "id": 16034,
+                "amount": 2.0,
+                "unit": "cans",
+                "unitLong": "cans",
+                "unitShort": "cans",
+                "aisle": "Canned and Jarred",
+                "name": "kidney beans",
+                "original": "2 cans kidney beans, drained and rinsed",
+                "originalName": "kidney beans, drained and rinsed",
+                "meta": [
+                    "drained and rinsed"
+                ],
+                "extendedName": "canned kidney beans",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/kidney-beans.jpg"
+            },
+            {
+                "id": 16070,
+                "amount": 8.0,
+                "unit": "ounces",
+                "unitLong": "ounces",
+                "unitShort": "oz",
+                "aisle": "Pasta and Rice;Canned and Jarred",
+                "name": "brown lentils",
+                "original": "8 ounces of brown lentils, cooked al dente for 8 minutes",
+                "originalName": "brown lentils, cooked al dente for 8 minutes",
+                "meta": [
+                    "cooked",
+                    "for 8 minutes"
+                ],
+                "extendedName": "cooked brown lentils",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/lentils-brown.jpg"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 11052,
+                "amount": 0.5,
+                "unit": "cup",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "green beans",
+                "original": "1/2 cup green beans, roughly cut",
+                "originalName": "green beans, roughly cut",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/green-beans-or-string-beans.jpg"
+            },
+            {
+                "id": 10211641,
+                "amount": 2.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "squash",
+                "original": "2 yellow squash, diced",
+                "originalName": "yellow squash, diced",
+                "meta": [
+                    "diced",
+                    "yellow"
+                ],
+                "extendedName": "yellow diced squash",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/yellow-squash.jpg"
+            },
+            {
+                "id": 11477,
+                "amount": 1.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "zucchini",
+                "original": "1 zucchini, diced",
+                "originalName": "zucchini, diced",
+                "meta": [
+                    "diced"
+                ],
+                "extendedName": "diced zucchini",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/zucchini.jpg"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 3
+    },
+--------------------------------------------------------------------------------------------------------------------------------------------------
+    {
+        "id": 643674,
+        "title": "Fried Brown Rice",
+        "image": "https://spoonacular.com/recipeImages/643674-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 2,
+        "missedIngredientCount": 8,
+        "missedIngredients": [
+            {
+                "id": 11124,
+                "amount": 2.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "carrots",
+                "original": "2 carrots, sliced thinly",
+                "originalName": "carrots, sliced thinly",
+                "meta": [
+                    "sliced"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/sliced-carrot.png"
+            },
+            {
+                "id": 20041,
+                "amount": 2.0,
+                "unit": "cups",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Pasta and Rice",
+                "name": "brown rice",
+                "original": "2 cups cooked, cooled brown rice",
+                "originalName": "cooked, cooled brown rice",
+                "meta": [
+                    "cooled",
+                    "cooked"
+                ],
+                "extendedName": "cooked brown rice",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/rice-brown-cooked.png"
+            },
+            {
+                "id": 11266,
+                "amount": 1.0,
+                "unit": "cup",
+                "unitLong": "cup",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "crimini mushrooms",
+                "original": "1 cup sliced crimini mushrooms",
+                "originalName": "sliced crimini mushrooms",
+                "meta": [
+                    "sliced"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/mushrooms.png"
+            },
+            {
+                "id": 1123,
+                "amount": 2.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Milk, Eggs, Other Dairy",
+                "name": "eggs",
+                "original": "2 eggs, beaten",
+                "originalName": "eggs, beaten",
+                "meta": [
+                    "beaten"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/egg.png"
+            },
+            {
+                "id": 10211216,
+                "amount": 2.0,
+                "unit": "tablespoons",
+                "unitLong": "tablespoons",
+                "unitShort": "Tbsp",
+                "aisle": "Produce",
+                "name": "ginger",
+                "original": "2 tablespoons minced fresh ginger",
+                "originalName": "minced fresh ginger",
+                "meta": [
+                    "fresh",
+                    "minced"
+                ],
+                "extendedName": "fresh ginger",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/ginger.png"
+            },
+            {
+                "id": 11215,
+                "amount": 1.0,
+                "unit": "teaspoon",
+                "unitLong": "teaspoon",
+                "unitShort": "tsp",
+                "aisle": "Produce",
+                "name": "garlic",
+                "original": "1 teaspoon minced garlic",
+                "originalName": "minced garlic",
+                "meta": [
+                    "minced"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/garlic.png"
+            },
+            {
+                "id": 11291,
+                "amount": 0.5,
+                "unit": "cup",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "scallions",
+                "original": "2 scallions, chopped (about 1/2 cup)",
+                "originalName": "scallions, chopped (about",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/spring-onions.jpg"
+            },
+            {
+                "id": 16124,
+                "amount": 4.0,
+                "unit": "tablespoons",
+                "unitLong": "tablespoons",
+                "unitShort": "Tbsp",
+                "aisle": "Ethnic Foods;Condiments",
+                "name": "soy sauce",
+                "original": "4 tablespoons soy sauce",
+                "originalName": "soy sauce",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/soy-sauce.jpg"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 11052,
+                "amount": 1.0,
+                "unit": "cup",
+                "unitLong": "cup",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "green beans",
+                "original": "1 cup chopped green beans",
+                "originalName": "chopped green beans",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/green-beans-or-string-beans.jpg"
+            },
+            {
+                "id": 11477,
+                "amount": 1.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "zucchini squash",
+                "original": "1 zucchini squash, sliced thinly",
+                "originalName": "zucchini squash, sliced thinly",
+                "meta": [
+                    "sliced"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/zucchini.jpg"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 1
+    },
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+    {
+        "id": 660292,
+        "title": "Slow Cooker Minestrone Soup",
+        "image": "https://spoonacular.com/recipeImages/660292-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 2,
+        "missedIngredientCount": 12,
+        "missedIngredients": [
+            {
+                "id": 11124,
+                "amount": 3.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "carrots",
+                "original": "3 Carrots, Diced",
+                "originalName": "Carrots, Diced",
+                "meta": [
+                    "diced"
+                ],
+                "extendedName": "diced carrots",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/sliced-carrot.png"
+            },
+            {
+                "id": 11282,
+                "amount": 1.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "onion",
+                "original": "1 Onion, Diced",
+                "originalName": "Onion, Diced",
+                "meta": [
+                    "diced"
+                ],
+                "extendedName": "diced onion",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/brown-onion.png"
+            },
+            {
+                "id": 11143,
+                "amount": 3.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "celery",
+                "original": "3 Celery, Chopped",
+                "originalName": "Celery, Chopped",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/celery.jpg"
+            },
+            {
+                "id": 11215,
+                "amount": 3.0,
+                "unit": "cloves",
+                "unitLong": "cloves",
+                "unitShort": "cloves",
+                "aisle": "Produce",
+                "name": "garlic",
+                "original": "3 cloves of Garlic, Minced",
+                "originalName": "Garlic, Minced",
+                "meta": [
+                    "minced"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/garlic.png"
+            },
+            {
+                "id": 16057,
+                "amount": 10.0,
+                "unit": "Oz",
+                "unitLong": "Ozs",
+                "unitShort": "Oz",
+                "aisle": "Pasta and Rice;Canned and Jarred;Ethnic Foods",
+                "name": "garbanzo beans",
+                "original": "10 Oz. Can of Garbanzo Beans",
+                "originalName": "Garbanzo Beans",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/chickpeas.png"
+            },
+            {
+                "id": 16070,
+                "amount": 1.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Pasta and Rice;Canned and Jarred",
+                "name": "pd of lentils",
+                "original": "1 pd of Cooked Lentils",
+                "originalName": "pd of Cooked Lentils",
+                "meta": [
+                    "cooked"
+                ],
+                "extendedName": "cooked pd of lentils",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/lentils-brown.jpg"
+            },
+            {
+                "id": 11529,
+                "amount": 28.0,
+                "unit": "Oz",
+                "unitLong": "Ozs",
+                "unitShort": "Oz",
+                "aisle": "Produce",
+                "name": "tomatoes",
+                "original": "28 Oz. Can of Tomatoes",
+                "originalName": "Tomatoes",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/tomato.png"
+            },
+            {
+                "id": 1006615,
+                "amount": 4.0,
+                "unit": "cups",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Canned and Jarred",
+                "name": "veggie broth",
+                "original": "4 cups of Veggie Broth",
+                "originalName": "Veggie Broth",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/chicken-broth.png"
+            },
+            {
+                "id": 2015,
+                "amount": 1.0,
+                "unit": "teaspoon",
+                "unitLong": "teaspoon",
+                "unitShort": "tsp",
+                "aisle": "Spices and Seasonings",
+                "name": "curry",
+                "original": "1 teaspoon of Curry",
+                "originalName": "Curry",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/curry-powder.jpg"
+            },
+            {
+                "id": 1002014,
+                "amount": 0.5,
+                "unit": "teaspoon",
+                "unitLong": "teaspoons",
+                "unitShort": "tsp",
+                "aisle": "Spices and Seasonings",
+                "name": "cumin",
+                "original": "1/2 teaspoon of Cumin",
+                "originalName": "Cumin",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/ground-cumin.jpg"
+            },
+            {
+                "id": 93663,
+                "amount": 0.5,
+                "unit": "teaspoon",
+                "unitLong": "teaspoons",
+                "unitShort": "tsp",
+                "aisle": "Ethnic Foods;Spices and Seasonings",
+                "name": "garam masala",
+                "original": "1/2 teaspoon of Garam Masala",
+                "originalName": "Garam Masala",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/garam-masala.jpg"
+            },
+            {
+                "id": 20421,
+                "amount": 6.0,
+                "unit": "ounces",
+                "unitLong": "ounces",
+                "unitShort": "oz",
+                "aisle": "Pasta and Rice",
+                "name": "noodles",
+                "original": "6 ounces of Cooked Noodles",
+                "originalName": "Cooked Noodles",
+                "meta": [
+                    "cooked"
+                ],
+                "extendedName": "cooked noodles",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/fusilli.jpg"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 11477,
+                "amount": 2.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "zucchini",
+                "original": "2 Zucchini, Cut up",
+                "originalName": "Zucchini, Cut up",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/zucchini.jpg"
+            },
+            {
+                "id": 11052,
+                "amount": 1.0,
+                "unit": "handful",
+                "unitLong": "handful",
+                "unitShort": "handful",
+                "aisle": "Produce",
+                "name": "green beans",
+                "original": "1 handful of Green Beans",
+                "originalName": "Green Beans",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/green-beans-or-string-beans.jpg"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 2
+    },
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+    {
+        "id": 715754,
+        "title": "Vegetables",
+        "image": "https://spoonacular.com/recipeImages/715754-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 2,
+        "missedIngredientCount": 14,
+        "missedIngredients": [
+            {
+                "id": 10020035,
+                "amount": 2.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Health Foods",
+                "name": "black bean quinoa salad",
+                "original": "Black Bean Quinoa Salad",
+                "originalName": "Black Bean Quinoa Salad",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/black-quinoa.png"
+            },
+            {
+                "id": 11098,
+                "amount": 2.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Produce",
+                "name": "cheese brussels sprouts",
+                "original": "Blue Cheese Brussels Sprouts",
+                "originalName": "Blue Cheese Brussels Sprouts",
+                "meta": [
+                    "blue"
+                ],
+                "extendedName": "blue cheese brussels sprouts",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/brussels-sprouts.jpg"
+            },
+            {
+                "id": 11819,
+                "amount": 2.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Produce",
+                "name": "chili broccolini",
+                "original": "Sweet Chili Broccolini",
+                "originalName": "Sweet Chili Broccolini",
+                "meta": [
+                    "sweet"
+                ],
+                "extendedName": "sweet chili broccolini",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/red-chili.jpg"
+            },
+            {
+                "id": 11168,
+                "amount": 2.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Produce",
+                "name": "cajun corn dip",
+                "original": "Cajun Corn Dip",
+                "originalName": "Cajun Corn Dip",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/corn.png"
+            },
+            {
+                "id": 11233,
+                "amount": 2.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Produce",
+                "name": "spinach and kale spring salad",
+                "original": "Spinach and Kale Spring Salad",
+                "originalName": "Spinach and Kale Spring Salad",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/kale.jpg"
+            },
+            {
+                "id": 20420,
+                "amount": 2.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Pasta and Rice",
+                "name": "spicy asian noodles",
+                "original": "Spicy Asian Noodles with Seared Tofu",
+                "originalName": "Spicy Asian Noodles with Seared Tofu",
+                "meta": [
+                    "with seared tofu"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/fusilli.jpg"
+            },
+            {
+                "id": 11507,
+                "amount": 2.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Produce",
+                "name": "roasted sweet potato salad",
+                "original": "Roasted Sweet Potato Salad",
+                "originalName": "Roasted Sweet Potato Salad",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/sweet-potato.png"
+            },
+            {
+                "id": 20035,
+                "amount": 2.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Pasta and Rice;Health Foods",
+                "name": "healthy quinoa salad",
+                "original": "Healthy Quinoa Salad",
+                "originalName": "Healthy Quinoa Salad",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/uncooked-quinoa.png"
+            },
+            {
+                "id": 20133,
+                "amount": 2.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Pasta and Rice;Gluten Free;Ethnic Foods",
+                "name": "chili lime asian rice noodles",
+                "original": "Chili Lime Asian Rice Noodles",
+                "originalName": "Chili Lime Asian Rice Noodles",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/rice-noodles.jpg"
+            },
+            {
+                "id": 1004,
+                "amount": 1.0,
+                "unit": "T",
+                "unitLong": "tablespoon",
+                "unitShort": "Tbsp",
+                "aisle": "Cheese",
+                "name": "bl salad",
+                "original": "BLT Salad with Avocado and Blue Cheese",
+                "originalName": "BL Salad with Avocado and Blue Cheese",
+                "meta": [
+                    "blue",
+                    "with avocado and  cheese"
+                ],
+                "extendedName": "blue bl salad",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/blue-cheese.png"
+            },
+            {
+                "id": 6164,
+                "amount": 2.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Pasta and Rice;Ethnic Foods",
+                "name": "roasted tomato salsa",
+                "original": "Roasted Tomato Salsa",
+                "originalName": "Roasted Tomato Salsa",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/salsa.png"
+            },
+            {
+                "id": 10011457,
+                "amount": 2.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Produce",
+                "name": "smokey spinach pizza",
+                "original": "Smokey Spinach Pizza",
+                "originalName": "Smokey Spinach Pizza",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/spinach.jpg"
+            },
+            {
+                "id": 11260,
+                "amount": 2.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Produce",
+                "name": "spinach",
+                "original": "Spinach, Mushroom and Feta Frittata",
+                "originalName": "Spinach, Mushroom and Feta Frittata",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/mushrooms.png"
+            },
+            {
+                "id": 11583,
+                "amount": 2.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Produce",
+                "name": "vegetable niçoise salad",
+                "original": "Vegetable Niçoise Salad",
+                "originalName": "Vegetable Niçoise Salad",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/mixed-vegetables.png"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 11485,
+                "amount": 2.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Produce",
+                "name": "roasted butternut squash",
+                "original": "Roasted Butternut Squash",
+                "originalName": "Roasted Butternut Squash",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/butternut-squash.jpg"
+            },
+            {
+                "id": 11052,
+                "amount": 2.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Produce",
+                "name": "basil and garlic green beans",
+                "original": "Basil and Garlic Green Beans",
+                "originalName": "Basil and Garlic Green Beans",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/green-beans-or-string-beans.jpg"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 1
+    },
+-----------------------------------------------------------------------------------------------------------------------------------------
+    {
+        "id": 664612,
+        "title": "Vegetable Tagine",
+        "image": "https://spoonacular.com/recipeImages/664612-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 2,
+        "missedIngredientCount": 19,
+        "missedIngredients": [
+            {
+                "id": 11531,
+                "amount": 32.0,
+                "unit": "ounces",
+                "unitLong": "ounces",
+                "unitShort": "oz",
+                "aisle": "Canned and Jarred",
+                "name": "tomatoes",
+                "original": "32 ounces canned crushed or diced tomatoes",
+                "originalName": "canned crushed or diced tomatoes",
+                "meta": [
+                    "diced",
+                    "canned",
+                    "crushed"
+                ],
+                "extendedName": "canned diced tomatoes",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/tomatoes-canned.png"
+            },
+            {
+                "id": 11124,
+                "amount": 1.0,
+                "unit": "large",
+                "unitLong": "large",
+                "unitShort": "large",
+                "aisle": "Produce",
+                "name": "carrot",
+                "original": "1 large carrot",
+                "originalName": "carrot",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/sliced-carrot.png"
+            },
+            {
+                "id": 11135,
+                "amount": 1.0,
+                "unit": "head",
+                "unitLong": "head",
+                "unitShort": "head",
+                "aisle": "Produce",
+                "name": "cauliflower",
+                "original": "head cauliflower",
+                "originalName": "cauliflower",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/cauliflower.jpg"
+            },
+            {
+                "id": 2031,
+                "amount": 1.0,
+                "unit": "teaspoon",
+                "unitLong": "teaspoon",
+                "unitShort": "tsp",
+                "aisle": "Spices and Seasonings",
+                "name": "cayenne pepper",
+                "original": "teaspoon cayenne pepper, or to taste",
+                "originalName": "cayenne pepper, or to taste",
+                "meta": [
+                    "to taste"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/chili-powder.jpg"
+            },
+            {
+                "id": 11143,
+                "amount": 1.0,
+                "unit": "stalk",
+                "unitLong": "stalk",
+                "unitShort": "stalk",
+                "aisle": "Produce",
+                "name": "celery",
+                "original": "1 stalk celery, chopped",
+                "originalName": "celery, chopped",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/celery.jpg"
+            },
+            {
+                "id": 16058,
+                "amount": 1.0,
+                "unit": "cup",
+                "unitLong": "cup",
+                "unitShort": "cup",
+                "aisle": "Canned and Jarred",
+                "name": "chickpeas",
+                "original": "1 cup cooked or canned chickpeas, (rinsed if canned)",
+                "originalName": "cooked or canned chickpeas, (rinsed if canned)",
+                "meta": [
+                    "canned",
+                    "rinsed",
+                    "cooked",
+                    "( if )"
+                ],
+                "extendedName": "cooked chickpeas",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/chickpeas.png"
+            },
+            {
+                "id": 1002010,
+                "amount": 3.0,
+                "unit": "inch",
+                "unitLong": "inches",
+                "unitShort": "inch",
+                "aisle": "Spices and Seasonings",
+                "name": "cinnamon stick",
+                "original": "3 inch cinnamon stick",
+                "originalName": "cinnamon stick",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/cinnamon.jpg"
+            },
+            {
+                "id": 11957,
+                "amount": 1.0,
+                "unit": "lb",
+                "unitLong": "pound",
+                "unitShort": "lb",
+                "aisle": "Produce",
+                "name": "fennel bu",
+                "original": "fennel bulb",
+                "originalName": "fennel bu",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/fennel.png"
+            },
+            {
+                "id": 10211216,
+                "amount": 1.0,
+                "unit": "inch",
+                "unitLong": "inch",
+                "unitShort": "inch",
+                "aisle": "Produce",
+                "name": "gingerroot",
+                "original": "1 1 inch piece peeled fresh gingerroot, minced",
+                "originalName": "peeled fresh gingerroot, minced",
+                "meta": [
+                    "fresh",
+                    "minced",
+                    "peeled"
+                ],
+                "extendedName": "fresh gingerroot",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/ginger.png"
+            },
+            {
+                "id": 10511297,
+                "amount": 3.0,
+                "unit": "tablespoons",
+                "unitLong": "tablespoons",
+                "unitShort": "Tbsp",
+                "aisle": "Produce",
+                "name": "parsley",
+                "original": "3 tablespoons chopped fresh parsley",
+                "originalName": "chopped fresh parsley",
+                "meta": [
+                    "fresh",
+                    "chopped"
+                ],
+                "extendedName": "fresh parsley",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/parsley.jpg"
+            },
+            {
+                "id": 11215,
+                "amount": 2.0,
+                "unit": "cloves",
+                "unitLong": "cloves",
+                "unitShort": "cloves",
+                "aisle": "Produce",
+                "name": "garlic",
+                "original": "2 cloves garlic, minced",
+                "originalName": "garlic, minced",
+                "meta": [
+                    "minced"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/garlic.png"
+            },
+            {
+                "id": 1002013,
+                "amount": 1.0,
+                "unit": "teaspoon",
+                "unitLong": "teaspoon",
+                "unitShort": "tsp",
+                "aisle": "Spices and Seasonings",
+                "name": "ground coriander",
+                "original": "teaspoon ground coriander",
+                "originalName": "ground coriander",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/ground-coriander.jpg"
+            },
+            {
+                "id": 1012014,
+                "amount": 1.0,
+                "unit": "teaspoon",
+                "unitLong": "teaspoon",
+                "unitShort": "tsp",
+                "aisle": "Spices and Seasonings",
+                "name": "ground cumin",
+                "original": "teaspoon ground cumin",
+                "originalName": "ground cumin",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/ground-cumin.jpg"
+            },
+            {
+                "id": 1009195,
+                "amount": 1.0,
+                "unit": "cup",
+                "unitLong": "cup",
+                "unitShort": "cup",
+                "aisle": "Canned and Jarred",
+                "name": "kalamata olives",
+                "original": "cup pitted kalamata olives",
+                "originalName": "pitted kalamata olives",
+                "meta": [
+                    "pitted"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/calamata-or-kalamata-olives.jpg"
+            },
+            {
+                "id": 2028,
+                "amount": 1.0,
+                "unit": "teaspoon",
+                "unitLong": "teaspoon",
+                "unitShort": "tsp",
+                "aisle": "Spices and Seasonings",
+                "name": "paprika",
+                "original": "teaspoon paprika",
+                "originalName": "paprika",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/paprika.jpg"
+            },
+            {
+                "id": 9291,
+                "amount": 1.0,
+                "unit": "cup",
+                "unitLong": "cup",
+                "unitShort": "cup",
+                "aisle": "Dried Fruits;Produce",
+                "name": "prunes",
+                "original": "cup halved pitted prunes",
+                "originalName": "halved pitted prunes",
+                "meta": [
+                    "pitted",
+                    "halved"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/prunes.jpg"
+            },
+            {
+                "id": 2037,
+                "amount": 1.0,
+                "unit": "teaspoon",
+                "unitLong": "teaspoon",
+                "unitShort": "tsp",
+                "aisle": "Ethnic Foods;Spices and Seasonings;Gourmet",
+                "name": "saffron",
+                "original": "teaspoon crushed saffron",
+                "originalName": "crushed saffron",
+                "meta": [
+                    "crushed"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/saffron.jpg"
+            },
+            {
+                "id": 11677,
+                "amount": 4.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "shallots",
+                "original": "4 shallots, chopped",
+                "originalName": "shallots, chopped",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/shallots.jpg"
+            },
+            {
+                "id": 6615,
+                "amount": 1.0,
+                "unit": "serving",
+                "unitLong": "serving",
+                "unitShort": "serving",
+                "aisle": "Canned and Jarred",
+                "name": "vegetable stock",
+                "original": "Vegetable stock or water as needed, (see Note)",
+                "originalName": "Vegetable stock or water as needed, (see Note)",
+                "meta": [
+                    "as needed",
+                    "(see Note)"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/chicken-broth.png"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 11052,
+                "amount": 1.0,
+                "unit": "serving",
+                "unitLong": "serving",
+                "unitShort": "serving",
+                "aisle": "Produce",
+                "name": "ib green beans",
+                "original": "Ib green beans",
+                "originalName": "Ib green beans",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/green-beans-or-string-beans.jpg"
+            },
+            {
+                "id": 11485,
+                "amount": 1.0,
+                "unit": "small",
+                "unitLong": "small",
+                "unitShort": "small",
+                "aisle": "Produce",
+                "name": "sweet potato chunks",
+                "original": "1 small butternut squash or sweet potato chunks",
+                "originalName": "butternut squash or sweet potato chunks",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/butternut-squash.jpg"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 1
+    }
+]
+
+tapos na!!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+https://api.spoonacular.com/recipes/findByIngredients?ingredients=okra,+monggo&number=5&apiKey=3d3a1f0106f643f68d28e2ac3c15f15c
+[
+    {
+        "id": 653549,
+        "title": "Okra Tomato Salad",
+        "image": "https://spoonacular.com/recipeImages/653549-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 1,
+        "missedIngredientCount": 3,
+        "missedIngredients": [
+            {
+                "id": 11529,
+                "amount": 1.0,
+                "unit": "large",
+                "unitLong": "large",
+                "unitShort": "large",
+                "aisle": "Produce",
+                "name": "tomato",
+                "original": "1 large tomato, chopped",
+                "originalName": "tomato, chopped",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/tomato.png"
+            },
+            {
+                "id": 2044,
+                "amount": 3.0,
+                "unit": "leaves",
+                "unitLong": "leaves",
+                "unitShort": "leaf",
+                "aisle": "Produce",
+                "name": "basil",
+                "original": "3 leaves of basil, finely diced",
+                "originalName": "basil, finely diced",
+                "meta": [
+                    "diced",
+                    "finely"
+                ],
+                "extendedName": "diced basil",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/fresh-basil.jpg"
+            },
+            {
+                "id": 2069,
+                "amount": 2.0,
+                "unit": "tablespoons",
+                "unitLong": "tablespoons",
+                "unitShort": "Tbsp",
+                "aisle": "Oil, Vinegar, Salad Dressing",
+                "name": "balsamic vinegar",
+                "original": "2 tablespoons balsamic vinegar",
+                "originalName": "balsamic vinegar",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/balsamic-vinegar.jpg"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 11278,
+                "amount": 10.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "two-inch long okra pods",
+                "original": "10-15 two-inch long okra pods",
+                "originalName": "two-inch long okra pods",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/okra.png"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 1
+    },
+---------------------------------------------------------------------------------------------------------------------------------------
+    {
+        "id": 660283,
+        "title": "SLOW COOKER CHICKEN GUMBO SOUP",
+        "image": "https://spoonacular.com/recipeImages/660283-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 1,
+        "missedIngredientCount": 9,
+        "missedIngredients": [
+            {
+                "id": 5006,
+                "amount": 3.0,
+                "unit": "cups",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Meat",
+                "name": "chicken",
+                "original": "3 to 4 cups chicken, cooked and chopped (I usually cook a whole chicken the day before and use leftovers to make this the next day)",
+                "originalName": "chicken, cooked and chopped (I usually cook a whole chicken the day before and use leftovers to make this the next day)",
+                "meta": [
+                    "whole",
+                    "cooked",
+                    "chopped",
+                    "(I usually cook a chicken the day before and use leftovers to make this the next day)"
+                ],
+                "extendedName": "cooked whole chicken",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/whole-chicken.jpg"
+            },
+            {
+                "id": 6194,
+                "amount": 14.0,
+                "unit": "ounce",
+                "unitLong": "ounces",
+                "unitShort": "oz",
+                "aisle": "Canned and Jarred",
+                "name": "can chicken broth",
+                "original": "2 cups or 1 (14 ounce) can chicken broth",
+                "originalName": "cups or 1 chicken broth",
+                "meta": [
+                    "canned"
+                ],
+                "extendedName": "canned can chicken broth",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/chicken-broth.png"
+            },
+            {
+                "id": 11124,
+                "amount": 1.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "carrot",
+                "original": "1 carrot, chopped or sliced",
+                "originalName": "carrot, chopped or sliced",
+                "meta": [
+                    "sliced",
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/sliced-carrot.png"
+            },
+            {
+                "id": 11333,
+                "amount": 1.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "bell pepper",
+                "original": "1 green pepper, chopped",
+                "originalName": "green pepper, chopped",
+                "meta": [
+                    "green",
+                    "chopped"
+                ],
+                "extendedName": "green bell pepper",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/green-pepper.jpg"
+            },
+            {
+                "id": 11282,
+                "amount": 1.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "onion",
+                "original": "1 onion, chopped",
+                "originalName": "onion, chopped",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/brown-onion.png"
+            },
+            {
+                "id": 10311693,
+                "amount": 14.5,
+                "unit": "ounce",
+                "unitLong": "ounces",
+                "unitShort": "oz",
+                "aisle": "Produce",
+                "name": "canned tomatoes",
+                "original": "1 (14.5 ounce) can petite diced tomatoes",
+                "originalName": "petite diced tomatoes",
+                "meta": [
+                    "diced",
+                    "canned"
+                ],
+                "extendedName": "diced canned tomatoes",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/tomatoes-canned.png"
+            },
+            {
+                "id": 1032028,
+                "amount": 1.0,
+                "unit": "teaspoon",
+                "unitLong": "teaspoon",
+                "unitShort": "tsp",
+                "aisle": "Ethnic Foods;Spices and Seasonings",
+                "name": "cajun seasoning",
+                "original": "1 teaspoon cajun seasoning",
+                "originalName": "cajun seasoning",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/chili-powder.jpg"
+            },
+            {
+                "id": 6168,
+                "amount": 6.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Condiments",
+                "name": "hot sauce",
+                "original": "Cayenne or hot sauce to taste",
+                "originalName": "Cayenne or hot sauce to taste",
+                "meta": [
+                    "to taste"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/hot-sauce-or-tabasco.png"
+            },
+            {
+                "id": 10220444,
+                "amount": 1.0,
+                "unit": "cup",
+                "unitLong": "cup",
+                "unitShort": "cup",
+                "aisle": "Pasta and Rice",
+                "name": "rice",
+                "original": "1 cup long grain rice (Could use instant rice)",
+                "originalName": "long grain rice (Could use instant rice)",
+                "meta": [
+                    "long grain",
+                    "instant",
+                    "(Could use rice)"
+                ],
+                "extendedName": "long grain rice",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/rice-white-long-grain-or-basmatii-cooked.jpg"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 11278,
+                "amount": 16.0,
+                "unit": "ounce",
+                "unitLong": "ounces",
+                "unitShort": "oz",
+                "aisle": "Produce",
+                "name": "okra",
+                "original": "2 cups fresh okra or 1 (16 ounce) package frozen",
+                "originalName": "cups fresh okra or 1 package frozen",
+                "meta": [
+                    "fresh",
+                    "frozen"
+                ],
+                "extendedName": "fresh okra",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/okra.png"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 2
+    },
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+    {
+        "id": 638108,
+        "title": "Chicken Gumbo Luisiana Style",
+        "image": "https://spoonacular.com/recipeImages/638108-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 1,
+        "missedIngredientCount": 10,
+        "missedIngredients": [
+            {
+                "id": 6194,
+                "amount": 5.0,
+                "unit": "cups",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Canned and Jarred",
+                "name": "chicken broth",
+                "original": "5 cups chicken broth",
+                "originalName": "chicken broth",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/chicken-broth.png"
+            },
+            {
+                "id": 7064,
+                "amount": 1.0,
+                "unit": "inch",
+                "unitLong": "inch",
+                "unitShort": "inch",
+                "aisle": "Meat",
+                "name": "andouille sausage",
+                "original": "1 inch Andouille sausage cut in ½ slices",
+                "originalName": "Andouille sausage cut in ½ slices",
+                "meta": [
+                    "cut in ½ slices"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/smoked-sausage.jpg"
+            },
+            {
+                "id": 11282,
+                "amount": 1.0,
+                "unit": "cup",
+                "unitLong": "cup",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "onions",
+                "original": "1 cup onions chopped",
+                "originalName": "onions chopped",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/brown-onion.png"
+            },
+            {
+                "id": 11529,
+                "amount": 1.0,
+                "unit": "cup",
+                "unitLong": "cup",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "tomatoes",
+                "original": "1 cup tomatoes chopped",
+                "originalName": "tomatoes chopped",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/tomato.png"
+            },
+            {
+                "id": 11143,
+                "amount": 0.5,
+                "unit": "cup",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "celery",
+                "original": "1/2 cup celery chopped",
+                "originalName": "celery chopped",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/celery.jpg"
+            },
+            {
+                "id": 11333,
+                "amount": 0.5,
+                "unit": "cup",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "bell pepper",
+                "original": "1/2 cup green pepper chopped",
+                "originalName": "green pepper chopped",
+                "meta": [
+                    "green",
+                    "chopped"
+                ],
+                "extendedName": "green bell pepper",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/green-pepper.jpg"
+            },
+            {
+                "id": 11215,
+                "amount": 2.0,
+                "unit": "cloves",
+                "unitLong": "cloves",
+                "unitShort": "cloves",
+                "aisle": "Produce",
+                "name": "garlic",
+                "original": "2 cloves garlic, finely minced",
+                "originalName": "garlic, finely minced",
+                "meta": [
+                    "finely minced"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/garlic.png"
+            },
+            {
+                "id": 11291,
+                "amount": 2.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "scallions",
+                "original": "2 scallions, chopped",
+                "originalName": "scallions, chopped",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/spring-onions.jpg"
+            },
+            {
+                "id": 2004,
+                "amount": 1.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce;Spices and Seasonings",
+                "name": "bay leaf",
+                "original": "1 bay leaf",
+                "originalName": "bay leaf",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/bay-leaves.jpg"
+            },
+            {
+                "id": 2049,
+                "amount": 0.5,
+                "unit": "teaspoon",
+                "unitLong": "teaspoons",
+                "unitShort": "tsp",
+                "aisle": "Produce;Spices and Seasonings",
+                "name": "thyme",
+                "original": "1/2 teaspoon thyme",
+                "originalName": "thyme",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/thyme.jpg"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 11278,
+                "amount": 1.0,
+                "unit": "cup",
+                "unitLong": "cup",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "okra",
+                "original": "1 cup okra sliced into ½ inch pieces",
+                "originalName": "okra sliced into ½ inch pieces",
+                "meta": [
+                    "sliced into ½ inch pieces"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/okra.png"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 1
+    },
+--------------------------------------------------------------------------------------------------------------------------------------------------
+    {
+        "id": 663822,
+        "title": "Trinidad Callaloo Soup",
+        "image": "https://spoonacular.com/recipeImages/663822-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 1,
+        "missedIngredientCount": 11,
+        "missedIngredients": [
+            {
+                "id": 11282,
+                "amount": 0.5,
+                "unit": "cup",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "onion",
+                "original": "1/2 cup chopped onion",
+                "originalName": "chopped onion",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/brown-onion.png"
+            },
+            {
+                "id": 10165,
+                "amount": 1.5,
+                "unit": "ounces",
+                "unitLong": "ounces",
+                "unitShort": "oz",
+                "aisle": "Meat",
+                "name": "salt pork",
+                "original": "1 1/2 ounces salt pork or bacon, chopped",
+                "originalName": "salt pork or bacon, chopped",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/pork-belly.jpg"
+            },
+            {
+                "id": 1012049,
+                "amount": 1.0,
+                "unit": "tsp",
+                "unitLong": "teaspoon",
+                "unitShort": "tsp",
+                "aisle": "Produce",
+                "name": "thyme",
+                "original": "1 tsp. fresh thyme",
+                "originalName": "fresh thyme",
+                "meta": [
+                    "fresh"
+                ],
+                "extendedName": "fresh thyme",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/thyme.jpg"
+            },
+            {
+                "id": 11215,
+                "amount": 2.0,
+                "unit": "cloves",
+                "unitLong": "cloves",
+                "unitShort": "cloves",
+                "aisle": "Produce",
+                "name": "garlic",
+                "original": "2 cloves garlic, chopped",
+                "originalName": "garlic, chopped",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/garlic.png"
+            },
+            {
+                "id": 10011819,
+                "amount": 1.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce;Ethnic Foods",
+                "name": "habanero chile",
+                "original": "1 fresh habanero chile, seeds removed and chopped",
+                "originalName": "fresh habanero chile, seeds removed and chopped",
+                "meta": [
+                    "fresh",
+                    "seeds removed and chopped"
+                ],
+                "extendedName": "fresh habanero chile",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/scotch-bonnet-chile.jpg"
+            },
+            {
+                "id": 11291,
+                "amount": 1.0,
+                "unit": "cup",
+                "unitLong": "cup",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "scallions",
+                "original": "1 cup chopped scallions",
+                "originalName": "chopped scallions",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/spring-onions.jpg"
+            },
+            {
+                "id": 11457,
+                "amount": 8.0,
+                "unit": "ounces",
+                "unitLong": "ounces",
+                "unitShort": "oz",
+                "aisle": "Produce",
+                "name": "baby spinach leaves",
+                "original": "8 ounces fresh callaloo leaves, Swiss chard, or baby spinach leaves",
+                "originalName": "fresh callaloo leaves, Swiss chard, or baby spinach leaves",
+                "meta": [
+                    "fresh"
+                ],
+                "extendedName": "fresh baby spinach leaves",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/spinach.jpg"
+            },
+            {
+                "id": 6172,
+                "amount": 2.0,
+                "unit": "cups",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Canned and Jarred",
+                "name": "chicken stock",
+                "original": "2 cups chicken stock",
+                "originalName": "chicken stock",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/chicken-broth.png"
+            },
+            {
+                "id": 12118,
+                "amount": 2.0,
+                "unit": "cups",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Canned and Jarred;Milk, Eggs, Other Dairy",
+                "name": "coconut milk",
+                "original": "2 cups coconut milk",
+                "originalName": "coconut milk",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/coconut-milk.png"
+            },
+            {
+                "id": 10015136,
+                "amount": 6.0,
+                "unit": "ounces",
+                "unitLong": "ounces",
+                "unitShort": "oz",
+                "aisle": "Seafood",
+                "name": "crab meat",
+                "original": "6 ounces fresh crab meat, picked over for shell bits",
+                "originalName": "fresh crab meat, picked over for shell bits",
+                "meta": [
+                    "fresh",
+                    "picked over",
+                    "for shell bits"
+                ],
+                "extendedName": "fresh crab meat",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/crabmeat.jpg"
+            },
+            {
+                "id": 10220445,
+                "amount": 4.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Pasta and Rice",
+                "name": "rice",
+                "original": "cooked long grain rice or prepared foo-foo (plantain)",
+                "originalName": "cooked long grain rice or prepared foo-foo (plantain)",
+                "meta": [
+                    "long grain",
+                    "prepared",
+                    "cooked",
+                    "(plantain)"
+                ],
+                "extendedName": "cooked long grain rice",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/uncooked-white-rice.png"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 11278,
+                "amount": 10.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "okra",
+                "original": "10 fresh okra, chopped",
+                "originalName": "fresh okra, chopped",
+                "meta": [
+                    "fresh",
+                    "chopped"
+                ],
+                "extendedName": "fresh okra",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/okra.png"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 1
+    },
+    {
+        "id": 648430,
+        "title": "Jambalaya Soup",
+        "image": "https://spoonacular.com/recipeImages/648430-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 1,
+        "missedIngredientCount": 14,
+        "missedIngredients": [
+            {
+                "id": 7064,
+                "amount": 3.0,
+                "unit": "ounces",
+                "unitLong": "ounces",
+                "unitShort": "oz",
+                "aisle": "Meat",
+                "name": "andouille or",
+                "original": "3 ounces fully cooked andouille or",
+                "originalName": "fully cooked andouille or",
+                "meta": [
+                    "fully cooked"
+                ],
+                "extendedName": "cooked andouille or",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/smoked-sausage.jpg"
+            },
+            {
+                "id": 20040,
+                "amount": 0.6666667,
+                "unit": "cup",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Pasta and Rice",
+                "name": "brown rice",
+                "original": "2/3 cup long-grain brown rice",
+                "originalName": "long-grain brown rice",
+                "meta": [
+                    "long-grain"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/uncooked-brown-rice.png"
+            },
+            {
+                "id": 98849,
+                "amount": 14.5,
+                "unit": "oz",
+                "unitLong": "ounces",
+                "unitShort": "oz",
+                "aisle": "Canned and Jarred",
+                "name": "canned tomatoes",
+                "original": "1 14.5-oz. can fire-roasted diced tomatoes, no salt added",
+                "originalName": "fire-roasted diced tomatoes, no salt added",
+                "meta": [
+                    "diced",
+                    "no salt added",
+                    "canned"
+                ],
+                "extendedName": "diced canned tomatoes",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/tomatoes-canned.png"
+            },
+            {
+                "id": 2031,
+                "amount": 0.5,
+                "unit": "teaspoon",
+                "unitLong": "teaspoons",
+                "unitShort": "tsp",
+                "aisle": "Spices and Seasonings",
+                "name": "cayenne pepper",
+                "original": "1/2 teaspoon cayenne pepper",
+                "originalName": "cayenne pepper",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/chili-powder.jpg"
+            },
+            {
+                "id": 11143,
+                "amount": 1.0,
+                "unit": "cup",
+                "unitLong": "cup",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "thinly- celery",
+                "original": "1 cup thinly-sliced celery",
+                "originalName": "thinly-sliced celery",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/celery.jpg"
+            },
+            {
+                "id": 5311,
+                "amount": 3.0,
+                "unit": "ounces",
+                "unitLong": "ounces",
+                "unitShort": "oz",
+                "aisle": "Canned and Jarred",
+                "name": "chicken broth",
+                "original": "3 ounces can chicken broth - (14 ½ ea)",
+                "originalName": "chicken broth - (14 ½ ea)",
+                "meta": [
+                    "canned",
+                    "()"
+                ],
+                "extendedName": "canned chicken broth",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/canned-food.png"
+            },
+            {
+                "id": 5066,
+                "amount": 8.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Meat",
+                "name": "chicken drumsticks skinned",
+                "original": "8 chicken drumsticks skinned",
+                "originalName": "chicken drumsticks skinned",
+                "meta": [],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/chicken-drumsticks.jpg"
+            },
+            {
+                "id": 99231,
+                "amount": 8.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Meat",
+                "name": "chorizo sausage",
+                "original": "chorizo sausage diced",
+                "originalName": "chorizo sausage diced",
+                "meta": [
+                    "diced"
+                ],
+                "extendedName": "diced chorizo sausage",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/chorizo-sausages.png"
+            },
+            {
+                "id": 1002023,
+                "amount": 1.0,
+                "unit": "teaspoon",
+                "unitLong": "teaspoon",
+                "unitShort": "tsp",
+                "aisle": "Spices and Seasonings",
+                "name": "marjoram",
+                "original": "1 teaspoon dried marjoram",
+                "originalName": "dried marjoram",
+                "meta": [
+                    "dried"
+                ],
+                "extendedName": "dried marjoram",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/marjoram.jpg"
+            },
+            {
+                "id": 2042,
+                "amount": 0.25,
+                "unit": "tsp",
+                "unitLong": "teaspoons",
+                "unitShort": "tsp",
+                "aisle": "Spices and Seasonings",
+                "name": "thyme",
+                "original": "1/4 tsp. dried thyme",
+                "originalName": "dried thyme",
+                "meta": [
+                    "dried"
+                ],
+                "extendedName": "dried thyme",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/thyme.jpg"
+            },
+            {
+                "id": 10211215,
+                "amount": 4.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "garlic cloves",
+                "original": "4 garlic cloves crushed",
+                "originalName": "garlic cloves crushed",
+                "meta": [
+                    "crushed"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/garlic.jpg"
+            },
+            {
+                "id": 11282,
+                "amount": 0.75,
+                "unit": "cup",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Produce",
+                "name": "onion",
+                "original": "3/4 cup onion, chopped",
+                "originalName": "onion, chopped",
+                "meta": [
+                    "chopped"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/brown-onion.png"
+            },
+            {
+                "id": 11821,
+                "amount": 1.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "bell pepper",
+                "original": "1 red bell pepper diced",
+                "originalName": "red bell pepper diced",
+                "meta": [
+                    "diced",
+                    "red"
+                ],
+                "extendedName": "red diced bell pepper",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/red-pepper.jpg"
+            },
+            {
+                "id": 15270,
+                "amount": 0.5,
+                "unit": "pound",
+                "unitLong": "pounds",
+                "unitShort": "lb",
+                "aisle": "Seafood",
+                "name": "shrimp",
+                "original": "1/2 pound medium shrimp peeled, deveined",
+                "originalName": "shrimp peeled, deveined",
+                "meta": [
+                    "deveined",
+                    "peeled"
+                ],
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/shrimp.png"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 11278,
+                "amount": 0.5,
+                "unit": "pound",
+                "unitLong": "pounds",
+                "unitShort": "lb",
+                "aisle": "Produce",
+                "name": "okra cut",
+                "original": "1/2 pound fresh okra cut ½\" slices",
+                "originalName": "fresh okra cut ½\" slices",
+                "meta": [
+                    "fresh"
+                ],
+                "extendedName": "fresh okra cut",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/okra.png"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 1
+    }
+]
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+

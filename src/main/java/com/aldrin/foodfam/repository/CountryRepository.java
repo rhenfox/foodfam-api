@@ -25,7 +25,6 @@ public interface CountryRepository extends JpaRepository<Country, String> {
     @Query("SELECT c.code, c.name FROM Country c")
     List<Object> getCodeAndCountry();
     
-////    @Query("FROM Employee  WHERE department.name = :name")
-//    @Query("FROM Country c WHERE city.name = :name")
-//    List<Country> getCityByCountry(String name);
+
+    
 }
