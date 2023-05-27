@@ -10,8 +10,10 @@ import org.springframework.web.bind.annotation.*;
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.data.domain.Sort;
+import org.springframework.stereotype.Controller;
 
 @RestController
+@Controller
 @RequestMapping("/recipe/")
 public class RecipeController {
 
