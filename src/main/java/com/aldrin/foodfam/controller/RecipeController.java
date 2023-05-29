@@ -3,6 +3,7 @@ package com.aldrin.foodfam.controller;
 import com.aldrin.foodfam.dto.RecipeRequest;
 import com.aldrin.foodfam.model.recipe.Recipe;
 import com.aldrin.foodfam.repository.RecipeRepository;
+import com.aldrin.foodfam.service.RecipeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -10,6 +11,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.data.domain.Sort;
+import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Controller;
 
 @RestController
@@ -38,16 +40,24 @@ public class RecipeController {
 //        return result;
 //    }
 
-// http://localhost:8080/recipe/findByIngredients?ingredients=Tomato,+Potato,+Eggplant,+Beef
-    @GetMapping("/findByIngredients")
-    public List<Recipe> findByIngredients(@RequestParam List<String> ingredients) {
-        List<Recipe> result = new ArrayList<>();
-        for (String keyword : ingredients) {
-            for (Recipe recipe : recipeRepository.findByTitleContaining(keyword)) {
-                result.add(recipe);
-            }
-        }
-        return result;
-    }
+//// http://localhost:8080/recipe/findByIngredients?ingredients=Tomato,+Potato,+Eggplant,+Beef
+//    @GetMapping("/findByIngredients")
+//    public List<Recipe> findByIngredients(@RequestParam List<String> ingredients) {
+//        List<Recipe> result = new ArrayList<>();
+//        for (String keyword : ingredients) {
+//            for (Recipe recipe : recipeRepository.findByTitleContaining(keyword)) {
+//                result.add(recipe);
+//            }
+//        }
+//        return result;
+//    }
 
+    @Autowired
+    private RecipeService recipeService;
+    
+    @GetMapping("/list")
+    public ResponseEntity<List<Recipe>> getRecipeList() {
+        return new ResponseEntity<List<Recipe>>(recipeService.getRecipeList(), HttpStatus.OK);
+    }
+    
 }
